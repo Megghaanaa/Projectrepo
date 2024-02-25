@@ -1,2 +1,2 @@
 new text added in hotel.txt file
-
+this is the second time of commit
